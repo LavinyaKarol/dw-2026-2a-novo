@@ -11,7 +11,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Camila Perez Alfonzo
 - Emanuelly Vitoria Lima da Silva
 - Emilly Vitória Antônio de Lima
-- Gabriel Washington Freitas Ribeiro
+- Gabriel Washington Freitas Ribeiro [@Washington062](https://github.com/Washington062)
 - Gilmar Alves de Oliveira Neto
 - Guilherme Saraiva Silva [@guilherminho2122](https://github.com/guilherminho2122)
 - Gustavo Henrique Silveira Rezende
@@ -19,7 +19,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Humberto Eugênio Rocha de Souza
 - Izabela Lima Oliveira
 - Izabella Bastos Avelar
-- Jean Paul Rodrigues Flauzino Filho
+- Jean Paul Rodrigues Flauzino Filho (@jeanrodrigues-ai)(https://github.com/jeanrodrigues-ai)
 - Joseane Souza Nunes
 - Lavínya Karolinne Costa Oliveira
 - Luís Arthur Morais Belo
