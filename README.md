@@ -33,6 +33,6 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Pyêtro Emanuel Batista do Nascimento [@pyetrin062](https://github.com/pyetrin062)
 - Quezia Oliveira Leite
 - Rafael Ferreira Felipe
-- Rebeca Silva Pereira
+- Rebeca Silva Pereira [@becasilvaz](https://github.com/becasilvaz)
 - Sofhia Parreira Dias [@SofhisxXDs](https://github.com/SofhisxXDs)
 - Yasmin Cordeiro de Sousa Cunha [@yasscunha1](https://github.com/yasscunha1)
