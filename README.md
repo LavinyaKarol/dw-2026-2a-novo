@@ -29,7 +29,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Murillo da Silva Brito [@Murillomsb](https://github.com/Murillomsb)
 - Murilo Ferreira da Costa
 - Núria Vitória Ferreira da Silva
-- Otávio Augusto Oliveira Silva
+- Otávio Augusto Oliveira Silva [@otavioa841](https://github.com/otavioa841)
 - Pyêtro Emanuel Batista do Nascimento [@pyetrin062](https://github.com/pyetrin062)
 - Quezia Oliveira Leite
 - Rafael Ferreira Felipe
