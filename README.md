@@ -17,7 +17,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Gustavo Henrique Silveira Rezende
 - Hiago Cândido de Oliveira
 - Humberto Eugênio Rocha de Souza [@humbertoeugenio-collab](https://github.com/humbertoeugenio-collab)
-- Izabela Lima Oliveira
+- Izabela Lima Oliveira [@Izabelaxsl](https://github.com/Izabelaxsl)
 - Izabella Bastos Avelar
 - Jean Paul Rodrigues Flauzino Filho (@jeanrodrigues-ai)(https://github.com/jeanrodrigues-ai)
 - Joseane Souza Nunes
