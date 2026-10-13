@@ -19,7 +19,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Humberto Eugênio Rocha de Souza [@humbertoeugenio-collab](https://github.com/humbertoeugenio-collab)
 - Izabela Lima Oliveira [@Izabelaxsl](https://github.com/Izabelaxsl)
 - Izabella Bastos Avelar
-- Jean Paul Rodrigues Flauzino Filho (@jeanrodrigues-ai)(https://github.com/jeanrodrigues-ai)
+- Jean Paul Rodrigues Flauzino Filho [@jeanrodrigues-ai](https://github.com/jeanrodrigues-ai)
 - Joseane Souza Nunes
 - Lavínya Karolinne Costa Oliveira
 - Luís Arthur Morais Belo
@@ -27,7 +27,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Mateus Henrique Cavicchioli
 - Miguel Henrique de Oliveira [@miguelhenrique1-wq](https://github.com/miguelhenrique1-wq)
 - Murillo da Silva Brito [@Murillomsb](https://github.com/Murillomsb)
-- Murilo Ferreira da Costa
+- Murilo Ferreira da Costa [@mfcsta](https://github.com/mfcsta)
 - Núria Vitória Ferreira da Silva [@Nuria000](http://github.com/Nuria000)
 - Otávio Augusto Oliveira Silva [@otavioa841](https://github.com/otavioa841)
 - Pyêtro Emanuel Batista do Nascimento [@pyetrin062](https://github.com/pyetrin062)
